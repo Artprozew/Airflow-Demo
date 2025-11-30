@@ -1,7 +1,7 @@
 {
   "name": "airflow-demo",
   "version": "1.0.0",
-  "homepage": "https://Artprozew.github.io/Airflow-Demo",
+  "homepage": "https://Artprozew.github.io/airflow-demo",
   "devDependencies": {
     "@vitejs/plugin-react": "^5.1.1",
     "autoprefixer": "^10.4.16",
